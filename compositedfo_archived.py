@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 '''
+archived version
 This script download remotely sensed flood inundation shapefiles from Dartmouth Flood Observatory (DFO) and
 generate composite flood prone areas with frequency.
 
